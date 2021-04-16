@@ -11,7 +11,6 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 
 Platform : Ubuntu 18.04.05
 
-
 ### Common Setup
 ```
 
